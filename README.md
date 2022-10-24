@@ -11,4 +11,4 @@ Analysis and Design - SNHU
 * ## How has your work on this project expanded your approach to designing software and developing programs?
 ### Before this course, I wasn't quite familiar with data structures or how they were applied within specific programming. However, with what I've learned from this course, I am feeling more confident in the advantages and disadvantages, as well as differences, between the three we learned about.
 * ## How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
-### This course has assisted me in how I will organize and prioritize future projects. Helping me write code that is easier to understand, as well as more adaptable, is key, and using data strucutres will help me keep my code modular.
+### This course has assisted me in how I will organize and prioritize future projects. Helping me write code that is easier to understand, as well as more adaptable, is key, and using data strucutres will help me keep my code modular. 
